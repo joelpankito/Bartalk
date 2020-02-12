@@ -22,3 +22,5 @@ dependencies {
     compile 'com.android.support:support-v4:18.0.0'
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
+
+git remote add origin git@github.com:joelpankito/Bartalk.git
